@@ -44,7 +44,7 @@ int msh_bic_call(const struct msh_cmd *cmd) {
     }
 }
 
-int msh_externel_call(struct msh_cmd *cmd) {
+int msh_external_call(struct msh_cmd *cmd) {
     struct msh_cmd *p = cmd;
     char *cmd_name = p->cmd_paras[0];
 

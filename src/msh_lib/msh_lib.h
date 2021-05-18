@@ -11,8 +11,8 @@
 // Builtin Command part interface
 int msh_bic_call(const struct msh_cmd *cmd);
 
-// call externel exe
-int msh_externel_call(struct msh_cmd *cmd);
+// call external exe
+int msh_external_call(struct msh_cmd *cmd);
 
 int msh_execute_command(struct msh_cmd *cmd);
 
