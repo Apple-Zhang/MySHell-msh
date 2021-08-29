@@ -29,8 +29,6 @@ $ ./msh
 You can run `help` or `?` command in `msh` to obtain help information.
 
 ## Notice
-This project is made for assignment of OS lesson in Shenzhen University,
-which implements part of basic functions commonly used in `bash`.
-It should be noted that the program might exists some potential bugs which have not been fixed properly,
-so DO NOT use `msh` in your daily work.
-It is recommended that `msh` is used just for learning and discussing.
+This project is made for assignment of OS lesson at Shenzhen University,
+which implements part of very basic functions commonly used in `bash`.
+It should be noted that the program might exists some potential bugs which have not been fixed properly.
